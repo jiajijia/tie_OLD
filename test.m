@@ -2,7 +2,7 @@
 % Purpose: test TIE solution
 %% Debug version for developer
 %% Revised by jiajijia on web page
-%% resubmit the sceond version
+%% resubmit the sceond version 
 
 
 clear;
